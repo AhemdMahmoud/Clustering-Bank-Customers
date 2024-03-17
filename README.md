@@ -3,6 +3,7 @@
 # Project Objective:🐱‍🏍
 
 ### This project aims to categorize customers of bank accounts using advanced unsupervised learning techniques. By leveraging various methodologies and tools, we aim to uncover meaningful patterns within the data and effectively segment customers into distinct categories.
+![Image Description](https://github.com/AhemdMahmoud/Clustering-Bank-Customers/raw/main/TSNE.png)
  ## 🤳 The primary objective of this project is to:
  ## 1: `Employ` advanced unsupervised learning techniques to categorize customers based on their banking behavior.
  ##2: `Determine` the optimal number of clusters using methods such as the Elbow method, Silhouette score, statistical gap analysis, and hierarchical clustering, and some other techniques.
