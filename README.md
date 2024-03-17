@@ -1,13 +1,18 @@
-# Clustering-Bank-Customers
+# Clustering-Bank-Customers🎉
 
-# Project Objective:
+# Project Objective:🐱‍🏍
 
 ### This project aims to categorize customers of bank accounts using advanced unsupervised learning techniques. By leveraging various methodologies and tools, we aim to uncover meaningful patterns within the data and effectively segment customers into distinct categories.
+ ## 🤳 The primary objective of this project is to:
+ ## 1: `Employ` advanced unsupervised learning techniques to categorize customers based on their banking behavior.
+ ##2: `Determine` the optimal number of clusters using methods such as the Elbow method, Silhouette score, statistical gap analysis, and hierarchical clustering, and some other techniques.
+## 3: `Validate` clustering results and explore dependencies among clusters using ANOVA tests.
+## 4: `Visualize` each step of the process using t-SNE (t-distributed Stochastic Neighbor Embedding) for enhanced understanding and interpretation.
 
 # 🌟 Business Understanding:
 ### This case requires to develop a customer segmentation to define marketing strategy. The sample Dataset summarizes the usage behavior of about 9000 active credit card holders during the last 6 months. The file is at a customer level with 18 behavioral variables
 
-# Data Dictionary for Credit Card dataset :-
+# Data Dictionary for Credit Card dataset✌ :-
 
 
 | Column Name                     | Description                                                                                                               |
