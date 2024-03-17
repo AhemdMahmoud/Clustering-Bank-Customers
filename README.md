@@ -36,3 +36,5 @@
 | MINIMUM_PAYMENTS                | Minimum amount of payments done by the user                                                                               |
 | PRCFULLPAYMENT                  | Percentage of full payment paid by the user                                                                               |
 | TENURE                          | Duration of credit card service for the user                                                                              |
+
+# [Click here to open in Google Colab](https://colab.research.google.com/drive/1sXvoUvsdDMVbNomkNjYgbk-nOd5wPX6t#scrollTo=M8Vs9BuWzers)
